@@ -1,0 +1,1 @@
+export default (entityParams: Record<string, any>) : Record<string, any> => entityParams;

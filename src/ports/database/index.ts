@@ -1,0 +1,1 @@
+export const save = async (entity: any) : Promise<any> => entity;
